@@ -56,9 +56,9 @@
 
 ### 学习的主题
 
-- [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
+- [x] [算法复杂度 / Big-O / 渐进分析法](#算法复杂度--big-o--渐进分析法)
 - [数据结构](#数据结构)
-    - [数组（Arrays）](#数组arrays)
+    - [x] [数组（Arrays）](#数组arrays)
     - [链表（Linked Lists）](#链表linked-lists)
     - [堆栈（Stack）](#堆栈stack)
     - [队列（Queue）](#队列queue)

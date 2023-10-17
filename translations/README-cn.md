@@ -64,7 +64,7 @@
     - [x] [队列（Queue）](#队列queue)
     - [哈希表（Hash table）](#哈希表hash-table)
 - [更多的知识](#更多的知识)
-    - [二分查找（Binary search）](#二分查找binary-search)
+    - [x] [二分查找（Binary search）](#二分查找binary-search)
     - [按位运算（Bitwise operations）](#按位运算bitwise-operations)
 - [树（Trees）](#树trees)
     - [x] [树-介绍](#树-介绍)
